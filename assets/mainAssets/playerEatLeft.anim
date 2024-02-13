@@ -1,0 +1,69 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "playerEatLeft",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.7777777777777778,
+  "sample": 9,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "87dc01f5-303e-491c-b548-cf64ed644aef"
+            }
+          },
+          {
+            "frame": 0.1111111111111111,
+            "value": {
+              "__uuid__": "fb0d242c-4167-47bd-a83b-549872d50878"
+            }
+          },
+          {
+            "frame": 0.2222222222222222,
+            "value": {
+              "__uuid__": "9e783601-ef9a-4016-bdf7-33a45a45b2e9"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "ab017e0b-0969-4c71-8eb8-e81fd1ac8f4d"
+            }
+          },
+          {
+            "frame": 0.4444444444444444,
+            "value": {
+              "__uuid__": "fff3124d-fffb-4672-b9fd-f590580cbe2c"
+            }
+          },
+          {
+            "frame": 0.5555555555555556,
+            "value": {
+              "__uuid__": "56001214-0772-4561-a59c-1ea1a2239fc0"
+            }
+          },
+          {
+            "frame": 0.6666666666666666,
+            "value": {
+              "__uuid__": "6c85bcb1-57fd-4649-8f40-31f69457593a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0.7777777777777778,
+      "func": "eatAnimEnd",
+      "params": [
+        -1
+      ]
+    }
+  ]
+}

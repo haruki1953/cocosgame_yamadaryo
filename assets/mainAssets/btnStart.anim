@@ -1,0 +1,48 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "btnStart",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5,
+  "sample": 30,
+  "speed": 1,
+  "wrapMode": 22,
+  "curveData": {
+    "paths": {
+      "r-other0": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": -89,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.5,
+              "value": -64
+            }
+          ]
+        }
+      },
+      "other0": {
+        "props": {
+          "x": [
+            {
+              "frame": 0,
+              "value": 89,
+              "curve": "cubicIn"
+            },
+            {
+              "frame": 0.5,
+              "value": 64
+            }
+          ]
+        }
+      }
+    },
+    "props": {
+      "angle": []
+    }
+  },
+  "events": []
+}
